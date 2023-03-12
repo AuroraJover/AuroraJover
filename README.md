@@ -3,7 +3,7 @@
 
 - 🌱 Estoy estudiando **HTML, CSS Y JAVASSCRIPT**
 
-- 👨‍💻 Todos mis proyectos en [Portfolio]((https://aurorajover.github.io/Portfolio_AuroraJover/))
+- 👨‍💻 Todos mis proyectos en [[Portfolio]((https://aurorajover.github.io/Portfolio_AuroraJover/))](https://aurorajover.github.io/Portfolio_AuroraJover/)
 
 - 📫 Puedes contactarme en **aurorajovermkt@gmail.com**
 
